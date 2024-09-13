@@ -10,6 +10,11 @@
         border: none;
         cursor: pointer;
         margin-right: 10px;
+        transition: background-color 0.15s;
+    }
+
+    .apply-button:hover {
+        background-color: rgb(28, 28, 185);
     }
 
     .save-button {
@@ -24,6 +29,12 @@
         border-color: rgb(10, 102, 194);
         border-style: solid;
         cursor: pointer;
+        transition: background-color 0.15s, border-width 0.15s;
+    }
+
+    .save-button:hover {
+        background-color: rgb(204, 215, 226);
+        border-width: 2px;
     }
 </style>
 <button class="apply-button">
