@@ -1,0 +1,38 @@
+p {
+    font-family: Arial;
+    margin: 0;
+    text-align: justify;
+}
+
+.mail {
+    font-size: 12px;
+    margin-bottom: 5px;
+    color: grey;
+}
+
+.box {
+    margin-bottom: 10px;
+    font-size: 10px;
+    width: 200px;
+    padding-left: 3px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+
+.terms {
+    font-size: 12px;
+    color: gray;
+    line-height: 8px;
+    margin-bottom: 10px;
+}
+
+.agree {
+    width: 300px;
+    font-size: 12px;
+    color: rgb(226, 219, 219);
+    border: none;
+    background-color: rgb(0, 119, 255);
+    border-radius: 18px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
