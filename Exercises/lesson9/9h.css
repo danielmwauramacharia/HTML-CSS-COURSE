@@ -1,0 +1,28 @@
+div {
+    text-align: center;
+}
+
+.search {
+    padding-left: 10px;
+    width: 300px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 10px;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
+    margin-bottom: 20px;
+}
+
+.logo {
+    width: 150px;
+    margin-left: 50px;
+    margin-bottom: 10px;
+}
+
+.button {
+    font-size: 10px;
+    border: none;
+    background-color: rgba(121, 116, 116, 0.129);
+    padding: 10px;
+}
