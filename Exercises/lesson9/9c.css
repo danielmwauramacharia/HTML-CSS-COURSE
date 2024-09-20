@@ -1,0 +1,9 @@
+.quiz {
+    width: 300px;
+    border-color: grey;
+    border-width: 1px;
+    border-style: solid;
+    padding-left: 15px;
+    padding-bottom: 20px;
+
+}
