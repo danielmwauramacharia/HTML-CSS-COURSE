@@ -1,0 +1,46 @@
+div {
+    display: inline-block;
+}
+
+.design {
+    width: 100px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+    margin: 10px;
+
+}
+
+.profile {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+}
+
+.username {
+    margin-top: 0;
+    font-weight: 900;
+    font-size: 12px;
+    margin-bottom: 0;
+    margin-left: 5px;
+}
+
+.friends {
+    margin-top: 0;
+    font-size: 12px;
+    color: rgb(70, 68, 68);
+    margin-bottom: 0;
+    margin-left: 5px;
+}
+
+.button {
+    margin-top: 5px;
+    width: 80px;
+    cursor: pointer;
+    border-radius: 3px;
+    font-size: 8px;
+    border: none;
+    color: white;
+    background-color: rgb(30, 127, 206);
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: 5px;
+}
