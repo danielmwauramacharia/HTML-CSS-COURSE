@@ -1,0 +1,38 @@
+div {
+    font-size: 14px;
+    font-weight: 500;
+    
+}
+.main-flex {
+    /* display: grid; */
+    width: 200px;
+    border: 0.5px;
+    border-color: rgb(224, 220, 220);
+    border-style: solid;
+    /* background-color: aliceblue; */
+    /* box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.1); */
+    border-radius: 5px;
+    margin: 20px;
+}
+
+.flex {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    height: 20px;
+    padding: 7px;
+}
+
+.button {
+    color: white;
+    cursor: pointer;
+    border: none;
+    font-size: 10px;
+    background-color: rgb(33, 96, 214);
+    border-radius: 20px;
+    /* padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 8px;
+    padding-left: 8px; */
+}
