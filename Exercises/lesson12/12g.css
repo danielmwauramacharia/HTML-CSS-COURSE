@@ -1,0 +1,45 @@
+.container {
+    display: flex;
+    width: 250px;
+    flex-direction: row;
+    align-items: center;
+    padding: 10px;
+}
+
+.profile {
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    margin-right: 10px;
+    object-position: center;
+    object-fit: cover;
+}
+
+.details {
+    flex: 1;
+    
+}
+
+.username {
+    font-weight: bold;
+    font-size: 12px;
+}
+
+.content {
+    font-size: 12px;
+    color: gray;
+}
+
+.button {
+    background-color: rgb(12, 125, 231);
+    cursor: pointer;
+    color: white;
+    border: none;
+    font-size: 10px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 8px;
+    padding-right: 8px;
+    border-radius: 5px;
+
+}
